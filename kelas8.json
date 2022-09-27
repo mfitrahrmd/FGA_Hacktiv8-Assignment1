@@ -1,0 +1,247 @@
+{
+  "students": [
+    {
+      "No": 1,
+      "Nama": "Rafli Abi Kusuma"
+    },
+    {
+      "No": 2,
+      "Nama": "M Fitrah Ramadhan",
+      "Alamat": "Palembang",
+      "Pekerjaan": "Software Developer",
+      "Alasan": "Belajar"
+    },
+    {
+      "No": 3,
+      "Nama": "Agung chumaidi"
+    },
+    {
+      "No": 4,
+      "Nama": "Adrian Metanoia Gawa"
+    },
+    {
+      "No": 5,
+      "Nama": "M DIYANSYAH"
+    },
+    {
+      "No": 6,
+      "Nama": "Risda Tamam Aljava"
+    },
+    {
+      "No": 7,
+      "Nama": "Dikky setiawan"
+    },
+    {
+      "No": 8,
+      "Nama": "Simon Aditia"
+    },
+    {
+      "No": 9,
+      "Nama": "Farrel Athaillah Putra"
+    },
+    {
+      "No": 10,
+      "Nama": "Arif Rahmadi"
+    },
+    {
+      "No": 11,
+      "Nama": "Pasha Abdul Khalid"
+    },
+    {
+      "No": 12,
+      "Nama": "Angga Pratama Syahputra"
+    },
+    {
+      "No": 13,
+      "Nama": "Helmi Fadhillah Fawaz"
+    },
+    {
+      "No": 14,
+      "Nama": "Fadel Muhammad"
+    },
+    {
+      "No": 15,
+      "Nama": "TITUS GIGIH TRIONGGO"
+    },
+    {
+      "No": 16,
+      "Nama": "Tuti Amalia"
+    },
+    {
+      "No": 17,
+      "Nama": "Hamid Baehaqi"
+    },
+    {
+      "No": 18,
+      "Nama": "Rahman Insani"
+    },
+    {
+      "No": 19,
+      "Nama": "Ulfa Savira Hasanah Kustiyono"
+    },
+    {
+      "No": 20,
+      "Nama": "Yogi Prayoga"
+    },
+    {
+      "No": 21,
+      "Nama": "Naufal Yudhistira"
+    },
+    {
+      "No": 22,
+      "Nama": "I PUTU AGUS YUDI ARTAWAN"
+    },
+    {
+      "No": 23,
+      "Nama": "Gede Govi Utama"
+    },
+    {
+      "No": 24,
+      "Nama": "Muhammad said"
+    },
+    {
+      "No": 25,
+      "Nama": "I Wayan Adi Sudirtayasa"
+    },
+    {
+      "No": 26,
+      "Nama": "Andres Adyana"
+    },
+    {
+      "No": 27,
+      "Nama": "Andrean Pradana"
+    },
+    {
+      "No": 28,
+      "Nama": "Putu Novendra Krisna Wiharadhita"
+    },
+    {
+      "No": 29,
+      "Nama": "Muhammad Meganata Adam Shamuray"
+    },
+    {
+      "No": 30,
+      "Nama": "BANDANA IRMAL ABDILLAH"
+    },
+    {
+      "No": 31,
+      "Nama": "Nazmi Muhammad Abkary"
+    },
+    {
+      "No": 32,
+      "Nama": "Edi Kurniawan"
+    },
+    {
+      "No": 33,
+      "Nama": "RIZKI PRATAMA TURBINA"
+    },
+    {
+      "No": 34,
+      "Nama": "Dominikus Vieri Tegar Linestyo"
+    },
+    {
+      "No": 35,
+      "Nama": "SHAFIYYUR RAHMAN GULAM ZAKIYYA"
+    },
+    {
+      "No": 36,
+      "Nama": "Madani Syahputra Sihombing"
+    },
+    {
+      "No": 37,
+      "Nama": "Dzikri algiffari"
+    },
+    {
+      "No": 38,
+      "Nama": "Fafan Maulana Cahya Utama"
+    },
+    {
+      "No": 39,
+      "Nama": "Pri Rahmantiyo Ramadhan"
+    },
+    {
+      "No": 40,
+      "Nama": "Muhammad Haykal Alfariz Saputra"
+    },
+    {
+      "No": 41,
+      "Nama": "sukriadi"
+    },
+    {
+      "No": 42,
+      "Nama": "Muchamad syariful umam"
+    },
+    {
+      "No": 43,
+      "Nama": "Louis Madaerdo Tambunan"
+    },
+    {
+      "No": 44,
+      "Nama": "Cahyo Bintarum"
+    },
+    {
+      "No": 45,
+      "Nama": "Muhamad Afik Agiesta"
+    },
+    {
+      "No": 46,
+      "Nama": "SYAHRIL MAULA YAHYA"
+    },
+    {
+      "No": 47,
+      "Nama": "MUHAMMAD SHOLAHUDDIN AL AYYUBI"
+    },
+    {
+      "No": 48,
+      "Nama": "ILHAM ALHADI FIRMANSAH"
+    },
+    {
+      "No": 49,
+      "Nama": "Muhammad Ifa Amrillah"
+    },
+    {
+      "No": 50,
+      "Nama": "GARY DIMITRI HAMIDI"
+    },
+    {
+      "No": 51,
+      "Nama": "Amri Khoirul Hakim"
+    },
+    {
+      "No": 52,
+      "Nama": "JAMALLUDIN"
+    },
+    {
+      "No": 53,
+      "Nama": "Kevin Johanes Pakpahan"
+    },
+    {
+      "No": 54,
+      "Nama": "Salman Affandi"
+    },
+    {
+      "No": 55,
+      "Nama": "Jovan Imanuel Sigalingging"
+    },
+    {
+      "No": 56,
+      "Nama": "MAULANA ARIF WIJAYA"
+    },
+    {
+      "No": 57,
+      "Nama": "I Deo Kelvin Aprianta S"
+    },
+    {
+      "No": 58,
+      "Nama": "jevrian efendi"
+    },
+    {
+      "No": 59,
+      "Nama": "Charles Christopher Manggindaan"
+    },
+    {
+      "No": 60,
+      "Nama": "Muhammad Ali Reza"
+    }
+  ]
+}
